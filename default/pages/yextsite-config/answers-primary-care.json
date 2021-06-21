@@ -1,0 +1,23 @@
+{
+  "$id": "answers-primary-care",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Answers - Primary Care",
+  "repoConfig": "primary-care-answers-repo",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false
+  },
+  "branches": [
+    {
+      "name": "master",
+      "stagingCredentials": {
+        "username": "test",
+        "password": "test"
+      },
+      "envVars": [],
+      "isProductionBranch": true
+    }
+  ]
+}

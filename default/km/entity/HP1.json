@@ -1,0 +1,63 @@
+{
+  "$id": "HP1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "content": {
+    "c_activeInAnswers": "YES",
+    "c_answersSpecialty": "Answers",
+    "c_primaryCTA": {
+      "label": "Schedule Appointment",
+      "link": "https://www.yext.com",
+      "linkType": "URL"
+    },
+    "c_relatedLocations": [
+      "HF1"
+    ],
+    "c_secondaryCTA": {
+      "label": "Call Now",
+      "link": "+17574071153",
+      "linkType": "PHONE"
+    },
+    "yext/address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "yext/addressHidden": false,
+    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "yext/firstName": "Sam",
+    "yext/gender": "MALE",
+    "yext/headshot": {
+      "height": 416,
+      "thumbnails": [
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p/9DiirFzwTJzwRxRubcwDCU1eZ6DR1P7eLS2efRDCg6A/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p/9DiirFzwTJzwRxRubcwDCU1eZ6DR1P7eLS2efRDCg6A/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/9DiirFzwTJzwRxRubcwDCU1eZ6DR1P7eLS2efRDCg6A/416x416.jpg",
+      "width": 416
+    },
+    "yext/insuranceAccepted": [
+      "AETNA",
+      "CIGNA",
+      "BlueCross BlueShield"
+    ],
+    "yext/languages": [
+      "Spanish"
+    ],
+    "yext/lastName": "Jones",
+    "yext/mainPhone": "+17574070511",
+    "yext/name": "Sam Jones, MD",
+    "yext/timezone": "America/New_York"
+  },
+  "entityType": "yext/healthcareProfessional",
+  "labels": []
+}

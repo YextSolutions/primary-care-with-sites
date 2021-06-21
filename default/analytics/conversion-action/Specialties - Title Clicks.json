@@ -1,0 +1,30 @@
+{
+  "$id": "c_specialties-title-clicks",
+  "$schema": "https://schema.yext.com/config/analytics/conversion-action/v2",
+  "conversionName": "Specialties - Title Clicks",
+  "conversionType": "OTHER",
+  "conversionValueType": "SAME",
+  "conversionValueAmount": 50.0,
+  "conversionTerm": {
+    "startDate": "2020-08-27"
+  },
+  "conversionTrigger": {
+    "clickTriggers": [
+      {
+        "clickType": "TITLE",
+        "entityFilter": {
+          "entityTypeIn": [
+            "ce_specialty"
+          ]
+        },
+        "media": [
+          {
+            "mediumType": "ALL_ANSWERS_EXPERIENCES"
+          }
+        ]
+      }
+    ],
+    "completionRate": 25.0
+  },
+  "enabled": true
+}

@@ -1,0 +1,26 @@
+{
+  "$id": "36135507",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Answers - Professionals",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeInAnswers",
+        "filterOption": {
+          "choice": [
+            "NO"
+          ],
+          "type": "IS_NOT"
+        }
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "yext/healthcareProfessional"
+        ],
+        "type": "IS"
+      }
+    ]
+  }
+}

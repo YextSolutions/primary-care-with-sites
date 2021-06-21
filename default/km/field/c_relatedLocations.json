@@ -1,0 +1,20 @@
+{
+  "$id": "c_relatedLocations",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Related Locations",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "yext/entityReference",
+      "type": {
+        "entityReferenceType": {
+          "supportedEntityTypeIds": [
+            "yext/healthcareFacility"
+          ]
+        }
+      }
+    }
+  },
+  "typeId": "yext/list"
+}

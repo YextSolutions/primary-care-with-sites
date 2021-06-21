@@ -1,0 +1,26 @@
+{
+    "$id": "Cond1",
+    "$schema": "https://schema.yext.com/config/km/entity/v1",
+    "content": {
+      "c_activeInAnswers": "YES",
+      "c_photo": {
+        "url": "http://a.mktgcdn.com/p/duUyOVNCA3PChmeGpFERvdFSiIz0yxT7xcp64Nf0OjI/1500x1500.jpg"
+    },
+      "c_primaryCTA": {
+        "label": "Learn More",
+        "link": "https://www.yext.com",
+        "linkType": "URL"
+      },
+      "c_relatedLocations": [
+        "HF1"
+      ],
+      "c_relatedProfessionals": [
+        "HP1"
+      ],
+      "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+      "yext/landingPageUrl": "https://www.yext.com",
+      "yext/name": "Condition 1"
+    },
+    "entityType": "ce_condition",
+    "labels": []
+  }
