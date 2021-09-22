@@ -17,7 +17,7 @@
     "entityType": [
       {
         "entityTypeId": [
-          "yext/healthcareProfessional"
+          "healthcareProfessional"
         ],
         "type": "IS"
       }

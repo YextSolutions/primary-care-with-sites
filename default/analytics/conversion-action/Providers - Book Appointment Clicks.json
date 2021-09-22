@@ -14,7 +14,7 @@
         "clickType": "BOOK_APPOINTMENT",
         "entityFilter": {
           "entityTypeIn": [
-            "yext/healthcareProfessional"
+            "healthcareProfessional"
           ]
         },
         "media": [

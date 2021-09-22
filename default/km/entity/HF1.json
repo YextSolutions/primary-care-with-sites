@@ -12,16 +12,16 @@
     "c_relatedSpecialty": [
       "Spec1"
     ],
-    "yext/address": {
+    "address": {
       "city": "New York",
       "countryCode": "US",
       "line1": "61 9th Ave",
       "postalCode": "10011",
       "region": "NY"
     },
-    "yext/addressHidden": false,
-    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit ut aliquam purus sit amet. Viverra nam libero justo laoreet sit amet cursus. Amet commodo nulla facilisi nullam vehicula. Semper viverra nam libero justo laoreet sit amet cursus sit. Sit amet massa vitae tortor condimentum lacinia quis. Eget egestas purus viverra accumsan in nisl nisi scelerisque.",
-    "yext/hours": {
+    "addressHidden": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit ut aliquam purus sit amet. Viverra nam libero justo laoreet sit amet cursus. Amet commodo nulla facilisi nullam vehicula. Semper viverra nam libero justo laoreet sit amet cursus sit. Sit amet massa vitae tortor condimentum lacinia quis. Eget egestas purus viverra accumsan in nisl nisi scelerisque.",
+    "hours": {
       "friday": {
         "isClosed": false,
         "openIntervals": [
@@ -86,21 +86,21 @@
         ]
       }
     },
-    "yext/insuranceAccepted": [
+    "insuranceAccepted": [
       "Insurance 1",
       "Insurance 2",
       "Insurance 3",
       "Insurance 4"
     ],
-    "yext/mainPhone": "+17574070511",
-    "yext/name": "Yext Primary Care",
-    "yext/timezone": "America/New_York",
-    "yext/websiteUrl": {
+    "mainPhone": "+17574070511",
+    "name": "Yext Primary Care",
+    "timezone": "America/New_York",
+    "websiteUrl": {
       "displayUrl": "https://www.yext.com",
       "preferDisplayUrl": false,
       "url": "https://www.yext.com"
     }
   },
-  "entityType": "yext/healthcareFacility",
+  "entityType": "healthcareFacility",
   "labels": []
 }

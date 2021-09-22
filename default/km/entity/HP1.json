@@ -17,18 +17,18 @@
       "link": "+17574071153",
       "linkType": "PHONE"
     },
-    "yext/address": {
+    "address": {
       "city": "New York",
       "countryCode": "US",
       "line1": "61 9th Ave",
       "postalCode": "10011",
       "region": "NY"
     },
-    "yext/addressHidden": false,
-    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-    "yext/firstName": "Sam",
-    "yext/gender": "MALE",
-    "yext/headshot": {
+    "addressHidden": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "firstName": "Sam",
+    "gender": "MALE",
+    "headshot": {
       "height": 416,
       "thumbnails": [
         {
@@ -45,19 +45,19 @@
       "url": "http://a.mktgcdn.com/p/9DiirFzwTJzwRxRubcwDCU1eZ6DR1P7eLS2efRDCg6A/416x416.jpg",
       "width": 416
     },
-    "yext/insuranceAccepted": [
+    "insuranceAccepted": [
       "AETNA",
       "CIGNA",
       "BlueCross BlueShield"
     ],
-    "yext/languages": [
+    "languages": [
       "Spanish"
     ],
-    "yext/lastName": "Jones",
-    "yext/mainPhone": "+17574070511",
-    "yext/name": "Sam Jones, MD",
-    "yext/timezone": "America/New_York"
+    "lastName": "Jones",
+    "mainPhone": "+17574070511",
+    "name": "Sam Jones, MD",
+    "timezone": "America/New_York"
   },
-  "entityType": "yext/healthcareProfessional",
+  "entityType": "healthcareProfessional",
   "labels": []
 }

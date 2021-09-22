@@ -4,17 +4,17 @@
   "content": {
     "c_activeInAnswers": "YES",
     "c_department": "Pediatrics",
-    "yext/applicationUrl": "http://www.yext.com",
-    "yext/description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
-    "yext/employmentType": "PART_TIME",
-    "yext/jobLocation": "HF1",
-    "yext/landingPageUrl": "http://www.yext.com",
-    "yext/location": {
+    "applicationUrl": "http://www.yext.com",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Purus faucibus ornare suspendisse sed nisi lacus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet.",
+    "employmentType": "PART_TIME",
+    "jobLocation": "HF1",
+    "landingPageUrl": "http://www.yext.com",
+    "location": {
       "existingLocation": "HF1"
     },
-    "yext/name": "RN (Registered Nurse)",
-    "yext/workRemote": false
+    "name": "RN (Registered Nurse)",
+    "workRemote": false
   },
-  "entityType": "yext/job",
+  "entityType": "job",
   "labels": []
 }
