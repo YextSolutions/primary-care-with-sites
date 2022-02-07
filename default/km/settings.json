@@ -1,4 +1,40 @@
 {
   "$schema": "https://schema.yext.com/config/km/settings/v1",
-  "primaryEntityType": "healthcareFacility"
+  "primaryEntityType": "healthcareFacility",
+  "entityTypeSettings": [
+    {
+      "entityType": "ce_condition",
+      "defaultFieldEligibilityGroup": "ce_condition.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_specialty",
+      "defaultFieldEligibilityGroup": "ce_specialty.default",
+      "disabled": false
+    },
+    {
+      "entityType": "faq",
+      "defaultFieldEligibilityGroup": "faq.default",
+      "disabled": false
+    },
+    {
+      "entityType": "healthcareFacility",
+      "defaultFieldEligibilityGroup": "healthcareFacility.default",
+      "disabled": false
+    },
+    {
+      "entityType": "healthcareProfessional",
+      "defaultFieldEligibilityGroup": "healthcareProfessional.default",
+      "disabled": false
+    },
+    {
+      "entityType": "job",
+      "defaultFieldEligibilityGroup": "job.default",
+      "disabled": false
+    },
+    {
+      "entityType": "location",
+      "disabled": false
+    }
+  ]
 }
